@@ -1,0 +1,20 @@
+url: https://gsnoff.com
+baseurl:
+
+title: Ilyas Gasanov
+author: Ilyas Gasanov
+timezone: Europe/Moscow
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
